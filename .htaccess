@@ -1,0 +1,4 @@
+<FilesMatch "rooms.json|settings.json">  
+  Order Allow,Deny
+  Deny from all
+</FilesMatch>

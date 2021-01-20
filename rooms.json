@@ -1,0 +1,46 @@
+{
+    "dQw4w9WgXcQ":{
+        "id":"dQw4w9WgXcQ",
+        "name":"General",
+        "avatar":"/assets/images/avatars/jeff/jeff%20(1).jpg",
+        "allow":"all",
+        "type":"public",
+        "content-type":"all"
+    },
+
+    "P0H1JKZomV0":{
+        "id":"P0H1JKZomV0",
+        "name":"Gaming",
+        "avatar":"/assets/images/avatars/jeff/jeff%20(1).jpg",
+        "allow":"all",
+        "type":"public",
+        "content-type":"text"
+    },
+
+    "5qap5aO4i9A":{
+        "id":"5qap5aO4i9A",
+        "name":"Memes",
+        "avatar":"/assets/images/avatars/jeff/jeff%20(1).jpg",
+        "allow":"all",
+        "type":"public",
+        "content-type":"img"
+    },
+
+    "QH2-TGUlwu4":{
+        "id":"QH2TGUlwu4",
+        "name":"Purgatory",
+        "avatar":"/assets/images/avatars/jeff/jeff%20(1).jpg",
+        "allow":["admin", "mods", "banned"],
+        "type":"spectate",
+        "content-type":"all"
+    }, 
+
+    "NfuiB52K7X8":{
+        "id":"NfuiB52K7X8",
+        "name":"Mods Hangout",
+        "avatar":"/assets/images/avatars/jeff/jeff%20(1).jpg",
+        "allow":["admin", "mod"],
+        "type":"private",
+        "content-type":"all"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "dbtype":"mysql",
+    "chatdb":"",
+    "userdb":"",
+    "server":"",
+    "dbusername":"",
+    "dbpassword":"",
+
+    "defaultroomid":"dQw4w9WgXcQ",
+
+    "maxlength":5000,
+    "msgtoload":50,
+    "loadscrolloffset":500,
+    "scrolltobottomoffset":1500,
+    "updateint":1000,
+    "modaloffset":{"x":20, "y":30},
+
+    "qmaximgwidth":250,
+    "qmaximgheight":200,
+    "maximgwidth":200,
+    "maximgheight":150
+}

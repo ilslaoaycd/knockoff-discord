@@ -1,0 +1,51 @@
+.username.ros {
+    color: #1ea935;
+}
+
+.username.mod {
+    color: #ff710c;
+}
+
+.username.dev {
+    color: #21a3ff;
+}
+
+.role.admin {
+    background: blue !important;
+}
+
+.role.mod {
+    background: red !important;
+}
+
+.role.ros {
+    background: orange !important;
+}
+
+.role.bot {
+    background: linear-gradient(#27d3e4, #1eb6ff) !important;
+    text-transform: uppercase;
+}
+
+.role.leo {
+    background: #f56e69 !important;
+}
+/* for cameron*/
+.role.fair, .role.announcer {
+    background: #b4eb34 !important;
+    color: #231a0c !important;
+}
+/* for pooper */
+.role.bigstink {
+    background: #7a5901;
+}
+
+.role.none {
+    color: #5a5252 !important;
+    background: #ededed !important;
+}
+
+.role.dark.none {
+    color: #929292 !important;
+    background: #434343 !important;
+}
